@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-text {
+	@apply mt-1 block w-60 px-3 py-2 bg-white border-slate-300 rounded-full text-base shadow-sm placeholder-slate-500;
+}
+
+.input-text-transition {
+	@apply focus:outline-none focus:border-orange-400 focus:ring-1 focus:ring-orange-400 focus:transition focus:duration-300 focus:ease-in-out;
+}
