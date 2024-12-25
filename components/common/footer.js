@@ -7,7 +7,7 @@ export default function Footer() {
 		<footer className="bg-gray-50">
 			<div className="container mx-auto flex justify-center py-12 text-center px-8">
 				<div className="py-5">
-					<h1 className="font-bold text-3xl">Subscribe to Newsletter</h1>
+					<h1 className="font-bold text-3xl">Suscribe!!!</h1>
 					<form className="pb-10 pt-5">
 						<input
 							type="email"
