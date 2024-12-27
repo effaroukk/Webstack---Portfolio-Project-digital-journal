@@ -2,9 +2,9 @@ export default {
 	trending: [
 		{
 			id: 1,
-			title: "Your most unhappy customers are your greatest source of learning",
+			title: "Welcome to My Digital Diary!",
 			subtitle:
-				"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+				"Your personal space to reflect, grow, and organize your thoughts. Whether you're jotting down your daily adventures, tracking your mood, or planning your future, we're here to make it simple and meaningful.",
 			category: "Business, Travel",
 			img: "/images/img1.jpg",
 			description: `
