@@ -8,8 +8,7 @@ export default {
 			category: "Business, Travel",
 			img: "/images/img1.jpg",
 			description: `
-            Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
-            text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+           Your personal space to reflect, grow, and organize your thoughts. Whether you're jotting down your daily adventures, tracking your mood, or planning your future, we're here to make it simple and meaningful..
             `,
 			published: "Jun 3,  2022",
 			author: {
