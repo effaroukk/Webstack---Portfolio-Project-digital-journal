@@ -17,7 +17,7 @@ export default function Header() {
 				</div>
 				<div className="shrink w-80 order-1">
 					<Link href="/">
-						<a className="font-bold text-3xl">DigitalDiary</a>
+						<a className="font-bold text-3xl">DigitalJournal</a>
 					</Link>
 				</div>
 				<Social width />
