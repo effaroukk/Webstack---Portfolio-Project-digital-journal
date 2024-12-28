@@ -24,7 +24,7 @@ export default function Footer() {
 						</button>
 					</form>
 					<Social width={false} />
-					<p className="py-5 text-gray-400">Copyright &copy; 2022 All rights reserved</p>
+					<p className="py-5 text-gray-400">Copyright &copy; 2024 All rights reserved</p>
 					<Link href={"/"}>
 						<a>
 							<p className="text-gray-400">Terms & Conditions</p>
